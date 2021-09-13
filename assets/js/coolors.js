@@ -1,0 +1,14 @@
+var colors = new Array();
+colors[0] = "#118ab2";
+colors[1] = "#06d6a0";
+colors[2] = "#ef476f";
+colors[3] = "#073b4c";
+colors[4] = "#ffd166";
+colors[5] = "#d4a373";
+colors[6] = "#6d597a";
+colors[7] = "#4ecdc4";
+colors[8] = "#8a5a44";
+colors[9] = "#52796f";
+colors[10] = "#9a8c98";
+colors[11] = "#4cc9f0";
+colors[12] = "#b36a5e";
